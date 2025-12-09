@@ -82,4 +82,18 @@ This collection demonstrates practical machine learning workflows applied to hea
 
 ---
 
+## ** Learning Outcomes**
+
+* Applied real-world datasets to analytical problems
+* Built reproducible analytics pipelines
+* Translated raw data into actionable insights
+* Practiced model building, evaluation, and interpretation
+
+## ** Contact**
+For questions or collaboration opportunities:
+
+Name: Sabina Elumelu
+Email: elumelusabina@gmail.com
+GitHub: https://github.com/Encyclobinafix
+
 

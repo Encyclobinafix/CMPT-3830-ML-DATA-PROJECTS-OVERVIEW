@@ -93,7 +93,9 @@ This collection demonstrates practical machine learning workflows applied to hea
 For questions or collaboration opportunities:
 
 Name: Sabina Elumelu
+
 Email: elumelusabina@gmail.com
+
 GitHub: https://github.com/Encyclobinafix
 
 
